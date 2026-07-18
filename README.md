@@ -7,7 +7,7 @@ AI nutrition coach: log meals by **photo, voice, or text**, get OpenAI-powered f
 ## Links
 
 - **Live:** https://procal.food/
-- **Google Play:** available on the Play Store (see product site)
+- **Google Play:** https://play.google.com/store/apps/details?id=co.willpowerventures.pro_cal&hl=en
 - **This repo:** portfolio write-up only — no application source
 
 ## Role
