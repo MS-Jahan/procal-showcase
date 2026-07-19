@@ -4,6 +4,10 @@
 
 AI nutrition coach: log meals by **photo, voice, or text**, get OpenAI-powered food recognition, personalized meal plans, and smart reminders — with a companion **Telegram bot** for chat-based logging.
 
+## Overview
+
+AI nutrition coach (Flutter): log meals by photo, voice, or text with OpenAI food recognition, meal plans, reminders, Firebase sync, and a Telegram companion bot.
+
 ## Links
 
 - **Live:** https://procal.food/
@@ -14,13 +18,13 @@ AI nutrition coach: log meals by **photo, voice, or text**, get OpenAI-powered f
 
 **Assistant developer** — Flutter mobile app + Telegram bot companion (AI-assisted meal logging workflow).
 
-## What it does
+## Key Features
 
 - OpenAI-assisted food recognition from meal photos
 - Voice and text logging alongside photo capture
-- Tracks protein/calories; personalized meal plans and reminders
-- Firebase-backed sync across sessions
-- Telegram bot extends the same AI workflow for chat-based interaction
+- Personalized meal plans and smart reminders
+- Firebase-backed sync
+- Telegram bot for chat-based logging
 
 ## Tech stack
 
@@ -30,6 +34,14 @@ AI nutrition coach: log meals by **photo, voice, or text**, get OpenAI-powered f
 | AI | OpenAI API, `speech_to_text` |
 | Backend / sync | Firebase |
 | Bots | Telegram Bot API |
+
+## Dependencies
+
+No installable source in this showcase. Product stack: Flutter, Dart, OpenAI API, Firebase, Telegram Bot API, speech_to_text.
+
+## How to run locally
+
+Source is private (employer-owned). Use the live app / Play Store links above — there is nothing to run from this repo.
 
 ## Architecture (high level)
 
